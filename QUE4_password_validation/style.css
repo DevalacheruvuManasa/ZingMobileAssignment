@@ -1,0 +1,19 @@
+.place{/*declaring class with properties for apply of styles to the elemnts*/
+    height:100px;
+    width:2000px;
+    padding-left:500px;
+    padding-top:50px;
+}
+.sub{
+    padding-left:40px;
+    width:180px;
+    padding-right:60px;
+    height:40px;
+    font-size:15px;
+    justify-content: center;
+    
+}
+.ele{
+    height:40px;
+    width:250px;
+}
